@@ -1,5 +1,5 @@
 # ruff: noqa
-# code borrowed from https://github.com/pytorch/pytorch/blob/main/torch/utils/collect_env.py
+# code borrowed from https://github.com/vllm-project/vllm/blob/main/vllm/collect_env.py
 
 import datetime
 import locale
