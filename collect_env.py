@@ -1,5 +1,6 @@
 # ruff: noqa
 # code borrowed from https://github.com/vllm-project/vllm/blob/main/vllm/collect_env.py
+# good example: https://github.com/sonos/torch-to-nnef/blob/main/torch_to_nnef/collect_env.py
 
 import datetime
 import locale
